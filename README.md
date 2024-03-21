@@ -6,7 +6,7 @@ Java 기초 스터디 (20240325 ~ )
 ## 참여 인원 
 | [손가현](https://github.com/tkdgml822)                                         | [노기봉](https://github.com/geunsik2)                                           | [배진수](https://github.com/kingxeesu)| [이현동](https://github.com/geunsik2)                                           |                                          | [정민찬](https://github.com/dohun1109?tab=following)                            |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| <img src="https://avatars.githubusercontent.com/u/77792853?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104708869?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/112453560?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/108252423?v=4" alt="이미지" width="100" height="100"> |
+| <img src="https://avatars.githubusercontent.com/u/77792853?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/104708869?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/112453560?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/108252423?v=4" alt="이미지" width="100" height="100"> || <img src="https://avatars.githubusercontent.com/u/108252423?v=4" alt="이미지" width="100" height="100"> |
 
 ## 규칙
 - 매주 모던 자바인 액션 ->두 챕터씩, 실전 스프링 부트 -> 한 챕터씩 공부합니다.
