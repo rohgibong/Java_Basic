@@ -4,9 +4,9 @@ Java 기초 스터디 (20240325 ~ )
 
                 
 ## 참여 인원 
-| [손가현](https://github.com/gahyeeeon)| [노기봉](https://github.com/rohgibong)| [배진수](https://github.com/JinsuBae2)| [이현동](https://github.com/lhdmir)|[정민찬](https://github.com/jeongminchan)|
-|---|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/157968161?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/119557561?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/140715759?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/42959665?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/68080957?v=4" alt="이미지" width="100" height="100"> |
+| [손가현](https://github.com/gahyeeeon)| [노기봉](https://github.com/rohgibong)| [배진수](https://github.com/JinsuBae2)| [이현동](https://github.com/lhdmir)|
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/157968161?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/119557561?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/140715759?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/42959665?v=4" alt="이미지" width="100" height="100"> |
 
 ## 스케줄표(스프레드시트)
  - [스케줄표](https://docs.google.com/spreadsheets/d/1C20i9eVg6dBjAaVJSZJ3442XdMUcuFAYQjwgV0hLJGw/edit#gid=0)
