@@ -4,9 +4,9 @@ Java 기초 스터디 (20240325 ~ )
 
                 
 ## 참여 인원 
-| [손가현](https://github.com/gahyeeeon)| [노기봉](https://github.com/rohgibong)| [배진수](https://github.com/JinsuBae2)| [이현동](https://github.com/lhdmir)|[정민찬](https://github.com/jeongminchan)|
-|---|---|---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/157968161?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/119557561?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/140715759?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/42959665?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/68080957?v=4" alt="이미지" width="100" height="100"> |
+| [손가현](https://github.com/gahyeeeon)| [노기봉](https://github.com/rohgibong)| [배진수](https://github.com/JinsuBae2)| [이현동](https://github.com/lhdmir)|
+|---|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/157968161?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/119557561?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/140715759?v=4" alt="이미지" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/42959665?v=4" alt="이미지" width="100" height="100"> |
 
 ## 스케줄표(스프레드시트)
  - [스케줄표](https://docs.google.com/spreadsheets/d/1C20i9eVg6dBjAaVJSZJ3442XdMUcuFAYQjwgV0hLJGw/edit#gid=0)
@@ -33,20 +33,20 @@ Java 기초 스터디 (20240325 ~ )
 참여 : ✅  
 불참 : 😵  
 
-| 주차           | 손가현 | 노기봉 | 배진수 | 이현동 | 정민찬 |
-|--------------|---|---|---|---|-----|
-| 예시           | ✅ | ✅  | ✅   | ✅  | ✅   |
-| 1주차 (3월 25일) |  |    |     |    |     |
-| 2주차 ()       |  |    |     |    |     |  
-| 3주차 ()       |  |    |     |    |     |
-| 4주차 ()       |  |    |     |    |     |
-| 5주차 ()       |  |    |     |    |     |
-| 6주차 ()       |  |    |     |    |     |
-| 7주차 ()       |  |    |     |    |     |
-| 8주차 ()       |  |    |     |    |     |
-| 9주차 ()       |  |    |     |    |     | 
-| 10주차 ()      |  |    |     |    |     | 
-| 11주차 ()      |  |    |     |    |     |
+| 주차           | 손가현 | 노기봉 | 배진수 | 이현동 |
+|--------------|---|---|---|---|
+| 예시           | ✅ | ✅  | ✅ | ✅ |
+| 1주차 (3월 25일) | ✅ | ✅ | ✅ | ✅ |
+| 2주차 ()       |  |    |     |    | 
+| 3주차 ()       |  |    |     |    |
+| 4주차 ()       |  |    |     |    |
+| 5주차 ()       |  |    |     |    |
+| 6주차 ()       |  |    |     |    |
+| 7주차 ()       |  |    |     |    |
+| 8주차 ()       |  |    |     |    |
+| 9주차 ()       |  |    |     |    |
+| 10주차 ()      |  |    |     |    |
+| 11주차 ()      |  |    |     |    |
 
 ## 주차별 정리
 
